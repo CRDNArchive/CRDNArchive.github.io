@@ -1,5 +1,5 @@
 <div align="center">
-# Welcome to the CRDN Archive
+Welcome to the CRDN Archive
 
 </div>
 
