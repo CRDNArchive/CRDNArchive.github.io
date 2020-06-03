@@ -7,4 +7,4 @@
 
 ### Preserving the great history from the CRDN SMP!
 Contributors:
-- [hogwild777]
+- hogwild777
